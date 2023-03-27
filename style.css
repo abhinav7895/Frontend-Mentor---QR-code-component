@@ -16,9 +16,6 @@ body {
     margin: 15px;
 }
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
-
 .container {
     background-color: hsl(0, 0%, 100%);
     max-width: 360px;
@@ -44,3 +41,5 @@ body {
     margin: 0 30px;
 }
 
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
